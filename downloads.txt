@@ -3,3 +3,4 @@
 3. Selenium Server Standalone jar (http://www.seleniumhq.org/download/)
 4. Chrome driver download link (http://chromedriver.chromium.org/down...)
 5. Download Movies from tamilrockers
+6.New Features updated
