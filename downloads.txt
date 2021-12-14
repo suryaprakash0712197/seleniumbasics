@@ -1,0 +1,4 @@
+1. Java download link (https://www.oracle.com/technetwork/ja...)
+2. Eclipse Download (https://www.eclipse.org/downloads/)
+3. Selenium Server Standalone jar (http://www.seleniumhq.org/download/)
+4. Chrome driver download link (http://chromedriver.chromium.org/down...)
